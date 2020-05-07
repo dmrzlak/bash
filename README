@@ -1,0 +1,6 @@
+To compile: run "make all"
+To clean: run "make clean"
+To run : run "./main"
+
+When it came to the pipe commands such as "ls -l | less", it seems that q
+allows you to escape, but it seems a little wonky sometimes.
